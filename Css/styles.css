@@ -136,6 +136,11 @@ hr{
     float: left;
     margin-right: 30px;
 }
+.soldier-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
 
 .Copyright{
     color: #EAF6F6;
